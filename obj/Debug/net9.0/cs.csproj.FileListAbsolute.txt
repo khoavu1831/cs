@@ -1,0 +1,14 @@
+D:\WorkSpace\petpj\cs-git\cs\bin\Debug\net9.0\cs.exe
+D:\WorkSpace\petpj\cs-git\cs\bin\Debug\net9.0\cs.deps.json
+D:\WorkSpace\petpj\cs-git\cs\bin\Debug\net9.0\cs.runtimeconfig.json
+D:\WorkSpace\petpj\cs-git\cs\bin\Debug\net9.0\cs.dll
+D:\WorkSpace\petpj\cs-git\cs\bin\Debug\net9.0\cs.pdb
+D:\WorkSpace\petpj\cs-git\cs\obj\Debug\net9.0\cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\petpj\cs-git\cs\obj\Debug\net9.0\cs.AssemblyInfoInputs.cache
+D:\WorkSpace\petpj\cs-git\cs\obj\Debug\net9.0\cs.AssemblyInfo.cs
+D:\WorkSpace\petpj\cs-git\cs\obj\Debug\net9.0\cs.csproj.CoreCompileInputs.cache
+D:\WorkSpace\petpj\cs-git\cs\obj\Debug\net9.0\cs.dll
+D:\WorkSpace\petpj\cs-git\cs\obj\Debug\net9.0\refint\cs.dll
+D:\WorkSpace\petpj\cs-git\cs\obj\Debug\net9.0\cs.pdb
+D:\WorkSpace\petpj\cs-git\cs\obj\Debug\net9.0\cs.genruntimeconfig.cache
+D:\WorkSpace\petpj\cs-git\cs\obj\Debug\net9.0\ref\cs.dll
