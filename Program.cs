@@ -2,15 +2,17 @@
 {
     public static void Main(string[] args)
     {
-        Salary salary = new Salary();
+        Draw d = new Draw();
+        d.DrawAll(10, 10);
+        // Salary salary = new Salary();
 
         // int result = salary.GetSalaries(salary.RandomSalariesString());
         // Console.Write(result);
 
         // string rs = salary.RandomSalariesString();
 
-        string path = "salary.txt";
-        string s = File.ReadAllText(path);
+        // string path = "salary.txt";
+        // string s = File.ReadAllText(path);
         // string s = @"+1/1:141,2
         //             +2/1:19     
         //             +3/1:10,199 
@@ -33,7 +35,7 @@
         //             +20/1:4,147,37";
         // int rs = salary.GetSalaries(s);
         // int rs = salary.TotalSalaries(s);
-        salary.SalaryInfo(s);
+        // salary.SalaryInfo(s);
         // salary.SalaryInfo("+2/2:12,23-23/23:1000");
         // int rs2 = salary.GetSalaries(salary.RandomGenSalariesString(100, 2, 4));
         // string s2 = salary.RandomGenSalariesString(100, 2, 4);
