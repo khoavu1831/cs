@@ -3,7 +3,7 @@
     public static void Main(string[] args)
     {
         Draw d = new Draw();
-        d.DrawAll(10, 10);
+        d.DrawAll(24, 10);
         // Salary salary = new Salary();
 
         // int result = salary.GetSalaries(salary.RandomSalariesString());
