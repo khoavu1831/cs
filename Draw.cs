@@ -61,14 +61,7 @@ class Draw
     }
     public void DrawAll(int loop, int lines)
     {
-        int maxLoop = 7;
-        if (loop <= maxLoop)
-        {
-            Drawing(loop, lines);
-            ReverseDrawing(loop, lines);
-        }
-        else
-        {
+        int maxLoop = 9;
             int fullLoop = loop / maxLoop;
             int remainder = loop % maxLoop;
 
@@ -83,6 +76,5 @@ class Draw
                 Drawing(remainder, lines);
                 ReverseDrawing(remainder, lines);
             }
-        }
     }
 }
